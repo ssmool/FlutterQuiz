@@ -1,4 +1,4 @@
-# projeto_perguntas
+# flutte
 
 A new Flutter project.
 
@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Install Flutter SDK and create a project with command: <flutter create> flutter_quiz.
+Paste source code into directory <flutter_quiz>, 
+ change to project directory to run: <flutter run>.
+  
+For more information Flutter docs page is:
+
+https://flutter.dev/docs/get-started/install
