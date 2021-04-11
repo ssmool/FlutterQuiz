@@ -1,6 +1,4 @@
-# flutte
-
-A new Flutter project.
+# flutter
 
 ## Getting Started
 
